@@ -1,4 +1,4 @@
-# map-generator
+# Map Generator
 
 
 [![Contributors][contributors-shield]][contributors-url]
