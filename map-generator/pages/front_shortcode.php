@@ -6,7 +6,7 @@
 		
 		// wp_enqueue_script('jquery-min', "$dir/js/jquery.js" );
 		wp_enqueue_script('jquery-min', "$dir/js/jquery-1.10.0.min.js" ); 
-		wp_enqueue_script('jquery-maps-api','https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyC_ndCYk7BpsdhKCNEw8K4I0BqjGmW4lGI&sensor=false&libraries=places');
+		wp_enqueue_script('jquery-maps-api','https://maps.googleapis.com/maps/api/js?v=3.exp&key=######&sensor=false&libraries=places');
 		wp_enqueue_script('moment-min', "$dir/js/moment.min.js" );  
 		wp_enqueue_script('virtualsky', "$dir/js/virtualsky.js" );
 		wp_enqueue_script('jquery-geocomplete', "$dir/js/jquery.geocomplete.js" );
