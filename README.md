@@ -25,7 +25,7 @@ Gourav Gupta
 </td>
 <td>
   
-    | Quick View | Slide View | Category Wise Product Compare Wordpress |
+    | StarMap Generator |
    
 </td>
 </tr>
